@@ -1,0 +1,3 @@
+https://github.com/username/new-repo.git
+ ajay ajay
+some text 123
